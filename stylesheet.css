@@ -1,0 +1,20 @@
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.container {
+   background-color: #ffdf00;
+   padding: 80px;
+}
+.container img {
+   width: 280px;
+   float: left;
+   margin-left: 30px;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}

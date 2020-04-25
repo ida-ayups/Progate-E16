@@ -1,0 +1,38 @@
+@media (max-width: 1000px){
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+  .message-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+  .heading h3 {
+    font-size: 20px;
+  }
+
+@media (max-width: 670px){
+  .lesson {
+    width: 100%;
+  }
+.message-wrapper {
+   text-align: left;
+ }
+
+ .message-wrapper h1 {
+   font-size: 24px;
+   line-height: 36px;
+ }
+
+ .message-wrapper p {
+   font-size: 14px;
+   line-height: 20px;
+ }
+ .container img {
+    text-align: center;
+ }
+}
